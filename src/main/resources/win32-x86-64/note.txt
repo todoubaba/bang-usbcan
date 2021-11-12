@@ -1,0 +1,1 @@
+64位系统需要CAN分析仪资料20210714\二次开发示例源代码\VC_Example\VC_Example_VS2008_x64目录下的ControlCAN.dll，其他的目录下的会报“java.lang.UnsatisfiedLinkError: %1 不是有效的 Win32 应用程序。”错误。
